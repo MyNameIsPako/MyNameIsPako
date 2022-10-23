@@ -28,6 +28,4 @@
 
 ### 🤝🏻 &nbsp;Contacta conmigo
 
-<p align="center">
-<a href="https://www.discord.com"><img src="https://img.shields.io/badge/-!Pako#0280-0077B5?style=flat&logo=Discord&logoColor=white"/></a>
-</p>
+📩 &nbsp;Puedes contactar conmigo en alguna de mis redes sociales.
