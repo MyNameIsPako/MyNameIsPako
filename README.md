@@ -1,8 +1,15 @@
-- 👋 Ey! me llamo Pako!
-- 👀 Soy programador informatico en c+, js y html aun que me queda mucho por aprender.
-- 🌱 Actualmente trabajo en el projecto de Mia un bot de Fortnite para discord.
-- 💞️ Soy colaborador y CEO de Mia.
-- 📫 Me gusta pasarme algo de tiempo por mis projectos al dia.
+```js
+const Fortnite_Stats = {
+    Season: {    
+      Current_Level: "62",
+      Progress_To_Next_Level: "6%",
+    },
+    Overall: {
+      Total_Kills: "1,120",
+      Total_Deaths: "1,164",
+      Total_Wins: "20",
+    }
+};```
 
 <!---
 MyNameIsPako/MyNameIsPako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
