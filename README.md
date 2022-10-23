@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;¡Hola mi nombre es Pako! -->
+<h1 align="center">Hola 👋, Mi nombre es Pako</h1>
 
 ### 👨🏻‍💻 &nbsp;Sobre mi:
 
