@@ -13,7 +13,7 @@ const Sobre_Mi = {
       Discord: "https://dsc.gg/pakosarmy",
     },
     Lenguajes_Que_Uso: {
-      Actualmente: "Javascript",
+      Actualmente: "Javascript, Phyton",
       Extras: "HTML, CSS, C, C++",
     },
 }; 
