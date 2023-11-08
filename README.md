@@ -1,2 +1,20 @@
-[![Discord Server]([URL_DE_LA_IMAGEN](https://media.discordapp.net/attachments/1068326018982608987/1171958500755251280/image.png?ex=655e9268&is=654c1d68&hm=3b8055b612b3ce016d64318d622da3091a9d416788964576165176c95e3f5222&=)https://media.discordapp.net/attachments/1068326018982608987/1171958500755251280/image.png?ex=655e9268&is=654c1d68&hm=3b8055b612b3ce016d64318d622da3091a9d416788964576165176c95e3f5222&=)](https://dsc.gg/pakosarmy)
+<h1 align="center">Hola 👋, ¡Bienvenido a mi perfil!</h1>
 
+```js
+const Sobre_Mi = {
+    Pako: {    
+      MiaBOT: "Actualmente es uno de mis projectos principales donde me paso la mayoria del dia programando.",
+      Extras: "Me gusta estar con mi familia en mi tiempo libre.",
+    },
+    Redes_Sociales: {    
+      Youtube: "https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ",
+      Twitch: "https://www.twitch.tv/p_a_k_o_o",
+      Twitter: "https://www.twitch.tv/p_a_k_o_o",
+      Discord: "https://dsc.gg/pakosarmy",
+    },
+    Lenguajes_Que_Uso: {
+      Actualmente: "Javascript, Phyton",
+      Extras: "HTML, CSS, C, C++",
+    },
+}; 
+```
