@@ -6,7 +6,7 @@
 
 
  - 🌱 Tengo actualmente 28 años.
- - 💻 Programando en .js desde hace 2 años, en c#/c## durante 6 años, y explorando Python desde hace 1 año.
+ - 💻 Programando en .js desde hace 2 años, en c# durante 6 años, y explorando Python desde hace 1 año.
  - ⭐ Apasiado de los videojuegos y de Fortnite jugando ya desde hace +6 años.
  - 🌸 Desarollador de el mejor bot de Fortnite hispano llamado Mia, con una base de datos enorme de esquemas y builds.
 
@@ -29,7 +29,6 @@
   <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg" alt="js" width="50" height="60"/></a>
   <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg" alt="mongoDB" width="50" height="60"/></a>
   <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" alt="python" width="50" height="60"/></a>
-  <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" alt="cpp" width="50" height="60"/></a>
   <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="c#" width="40" height="50"/></a>
 </p>
 
