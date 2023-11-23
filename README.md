@@ -1,20 +1,35 @@
-<h1 align="center">Hola 👋, ¡Bienvenido a mi perfil!</h1>
+<h1 align="center" style="border-bottom: none">Hey 👋, ¡Bienvenido a el perfil de Pako!</h1>
+<p align="center"> <img src="https://media.discordapp.net/attachments/880106736181207072/1177059832294019132/257076709-25c73d00-10fb-4ec9-800a-2d2c08637fde_copia.png?ex=65712164&is=655eac64&hm=a1452dbe98d0db4a6af4527ac995a7e8acc01eda5b9b6248caeeb89848c3402d&=&format=webp&width=1025&height=11" alt="Separator" /></p>
+<h3 align="center">Creador de bots para Discord, entusiasta de Fortnite, amante de la ciberseguridad y explorador constante en el mundo de la programación.</h3>
 
-```js
-const Sobre_Mi = {
-    Pako: {    
-      MiaBOT: "Actualmente es uno de mis projectos principales donde me paso la mayoria del dia programando.",
-      Extras: "Me gusta estar con mi familia en mi tiempo libre.",
-    },
-    Redes_Sociales: {    
-      Youtube: "https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ",
-      Twitch: "https://www.twitch.tv/p_a_k_o_o",
-      Twitter: "https://www.twitch.tv/p_a_k_o_o",
-      Discord: "https://dsc.gg/pakosarmy",
-    },
-    Lenguajes_Que_Uso: {
-      Actualmente: "Javascript, Phyton",
-      Extras: "HTML, CSS, C, C++",
-    },
-}; 
-```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MyNameIsPako&label=Visitas%20al%20perfil&color=ff0067&style=flat-square" alt="MyNameIsPako" /></p>
+
+
+ - 🌱 Tengo actualmente 28 años.
+ - 💻 Programando en .js desde hace 2 años, en c#/c## durante 6 años, y explorando Python desde hace 1 año.
+ - ⭐ Apasiado de los videojuegos y de Fortnite jugando ya desde hace +6 años.
+ - 🌸 Desarollador de el mejor bot de Fortnite hispano llamado Mia, con una base de datos enorme de esquemas y builds.
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://twitter.com/p_a_k_o_o" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.twitch.tv/p_a_k_o_o" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Twitch_(service)/Twitch_(service)-Logo.wine.svg" alt="Twitch" height="30" width="40" /></a>
+  <a href="https://dsc.gg/pakosarmy" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+<h3 style="text-align: left;">Conoce mi bot de discord Mia:</h3>
+<p style="text-align: left;">
+  <a href="https://dsc.gg/miabot" target="_blank" rel="noreferrer"><img src="https://media.discordapp.net/attachments/880106736181207072/1177068630630994050/PNG_MIA_V13.png?ex=65712996&is=655eb496&hm=22a946f5466c78bbf06981356b21b80bac269785466970b53ab63bdeb411fcc3&=&format=webp" alt="js" width="60" height="60"/></a>
+  <a href="https://dsc.gg/pakosarmy" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+<h3 style="text-align: left;">Lenguajes, herramientas y bases de datos que uso:</h3>
+<p style="text-align: left;">
+  <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg" alt="js" width="50" height="60"/></a>
+  <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg" alt="mongoDB" width="50" height="60"/></a>
+  <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" alt="python" width="50" height="60"/></a>
+  <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" alt="cpp" width="50" height="60"/></a>
+  <a href="https://dsc.gg/pakosarmy" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="c#" width="40" height="50"/></a>
+</p>
+
