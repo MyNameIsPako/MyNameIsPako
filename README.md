@@ -7,7 +7,7 @@
 
  - 🌱 Tengo actualmente 28 años.
  - 💻 Programando en .js desde hace 2 años, en c# durante 6 años, y explorando Python desde hace 1 año.
- - ⭐ Apasiado de los videojuegos y de Fortnite jugando ya desde hace +6 años.
+ - ⭐ Apasionado de los videojuegos y de Fortnite jugando ya desde hace +6 años.
  - 🌸 Desarollador de el mejor bot de Fortnite hispano llamado Mia, con una base de datos enorme de esquemas y builds.
 
 <h3 align="left">Conéctate conmigo:</h3>
