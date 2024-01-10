@@ -47,4 +47,3 @@
 > Estoy inmerso en el aprendizaje de este lenguaje. Aunque solo he trabajado en un proyecto relativamente simple durante un poco más de medio año, estoy continuamente experimentando y probando nuevas cosas. Cada día es una nueva oportunidad para expandir mis conocimientos y habilidades en este lenguaje, y estoy emocionado por el progreso que estoy logrando.
 - [C#](https://dsc.gg/pakosarmy)
 > Este lenguaje fue mi elección en los primeros días de mi viaje en la programación. Le dediqué más de seis años de aprendizaje, construyendo una sólida base de habilidades. Aunque ya no lo utilizo con tanta frecuencia en la actualidad, esos años de experiencia han sido fundamentales para mi crecimiento como programador. Aunque ahora me concentro en otras tecnologías, siempre valoraré la base que este lenguaje me proporcionó.
-
