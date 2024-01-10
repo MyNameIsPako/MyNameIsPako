@@ -12,10 +12,10 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://twitter.com/p_a_k_o_o" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.twitch.tv/p_a_k_o_o" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Twitch_(service)/Twitch_(service)-Logo.wine.svg" alt="Twitch" height="30" width="40" /></a>
-  <a href="https://dsc.gg/pakosarmy" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="Discord" height="30" width="40" /></a>
+ - [Discord | Pako's Army](https://dsc.gg/pakosarmy)
+ - [YouTube | Pako]([https://dsc.gg/pakosarmy](https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ))
+ - [Twitter | Pako](https://twitter.com/mynameispako_)
+ - [Twitch | Pako](https://www.twitch.tv/mynameispako_)
 </p>
 
 <h3 style="text-align: left;">Conoce mi bot de discord Mia:</h3>
