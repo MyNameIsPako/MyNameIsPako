@@ -1,8 +1,6 @@
-# Hey 👋, ¡Bienvenido a el perfil de Pako!
-
-<p align="center"> 
-  <img src="https://media.discordapp.net/attachments/880106736181207072/1177059832294019132/257076709-25c73d00-10fb-4ec9-800a-2d2c08637fde_copia.png?ex=65712164&is=655eac64&hm=a1452dbe98d0db4a6af4527ac995a7e8acc01eda5b9b6248caeeb89848c3402d&=&format=webp&width=1025&height=110" alt="Separator" />
-</p>
+<h1 align="center" style="border-bottom: none">Hey 👋, ¡Bienvenido a el perfil de Pako!</h1>
+<p align="center"> <img src="https://media.discordapp.net/attachments/880106736181207072/1177059832294019132/257076709-25c73d00-10fb-4ec9-800a-2d2c08637fde_copia.png?ex=65712164&is=655eac64&hm=a1452dbe98d0db4a6af4527ac995a7e8acc01eda5b9b6248caeeb89848c3402d&=&format=webp&width=1025&height=11" alt="Separator" /></p>
+<h3 align="center">Creador de bots para Discord, entusiasta de Fortnite, amante de la ciberseguridad y explorador constante en el mundo de la programación.</h3>
 
 ## Sobre mí
 
