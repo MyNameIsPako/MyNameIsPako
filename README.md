@@ -1,6 +1,8 @@
 <h1 align="center" style="border-bottom: none">Hey 👋, ¡Bienvenido a el perfil de Pako!</h1>
 <p align="center"> <img src="https://media.discordapp.net/attachments/880106736181207072/1177059832294019132/257076709-25c73d00-10fb-4ec9-800a-2d2c08637fde_copia.png?ex=65712164&is=655eac64&hm=a1452dbe98d0db4a6af4527ac995a7e8acc01eda5b9b6248caeeb89848c3402d&=&format=webp&width=1025&height=11" alt="Separator" /></p>
 <h3 align="center">Creador de bots para Discord, entusiasta de Fortnite, amante de la ciberseguridad y explorador constante en el mundo de la programación.</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mynameispako&label=Visitas%20del%20perfil&color=ff0067&style=flat-square" alt="mynameispako" /></p>
+<hr/>
 
 ## Sobre mí
 
@@ -13,6 +15,8 @@
 
 - [Discord | Pako's Army](https://dsc.gg/pakosarmy)
 > ¡Bienvenido a mi servidor de Discord, el lugar donde paso la mayor parte de mi tiempo libre! Con más de 3,000 usuarios, nos hemos reunido todos bajo el tema de Fortnite. Puedes unirte para disfrutar de buenos momentos, realizar intercambios, buscar amigos, formar equipos o simplemente pasar un rato agradable. ¡Te esperamos para que te unas a la diversión!
+> 
+> <a href="https://dsc.gg/pakosarmy"><img src="https://discord.com/api/guilds/756859004965093426/widget.png?style=banner2"></a>
 - [YouTube | Pako](https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ)
 > ¡Bienvenido a mi canal de YouTube! Aquí encontrarás una variedad de videos relacionados con Fortnite y otros temas interesantes. Sin embargo, debido a mis responsabilidades laborales, actualmente me enfoco en compartir tutoriales y contenido relacionado con mi bot de Discord, Mia. ¡Espero que disfrutes del contenido y encuentres útil la información compartida! 
 - [Twitter | @mynameispako_](https://twitter.com/mynameispako_)
