@@ -20,12 +20,12 @@
 
 - [Mi bot de discord sobre Fortnite | Mia](https://dsc.gg/miabot)
 > ¡Les presento a Mia, el bot dedicado exclusivamente a Fortnite para nuestra comunidad hispana y diseñado especialmente para nuestros compañeros de Latinoamérica! Con una base de datos que incluye más de 200 esquemas y más de 50 builds, Mia está aquí para asistirles en todo lo posible. ¡Prepárense para mejorar su experiencia en Fortnite con la ayuda de Mia
-
-🌸 ¿Que ofrece?:
-Con más de 200 comandos meticulosamente creados para brindarte la mejor experiencia en Fortnite, Mia cuenta con guías tanto para Salvar el Mundo (STW) como para Battle Royale (BR). Además, dispone de comandos de integración para STW y BR, donde podrás acceder a información detallada sobre tus progresos en el juego. ¡Explora un mundo de posibilidades y mejora tu juego con Mia!
-
-❤️ Interactua con tu cuenta:
-Comandos que interactúan directamente con tu cuenta; desde recolectar las recompensas de Winterfest sin ingresar al juego, hasta enviar mensajes por el chat desde Discord al juego de Fortnite. Puedes revisar tus V-Bucks, comprar o regalar ítems de la tienda, y mucho más, ¡todo ello sin necesidad de entrar al juego! Con Mia, la experiencia de gestionar tu cuenta de Fortnite se simplifica y se integra perfectamente con Discord. ¡Descubre un nuevo nivel de conveniencia!
+> 
+> 🌸 ¿Que ofrece?:
+> Con más de 200 comandos meticulosamente creados para brindarte la mejor experiencia en Fortnite, Mia cuenta con guías tanto para Salvar el Mundo (STW) como para Battle Royale (BR). Además, dispone de comandos de integración para STW y BR, donde podrás acceder a información detallada sobre tus progresos en el juego. ¡Explora un mundo de posibilidades y mejora tu juego con Mia!
+> 
+> ❤️ Interactua con tu cuenta:
+> Comandos que interactúan directamente con tu cuenta; desde recolectar las recompensas de Winterfest sin ingresar al juego, hasta enviar mensajes por el chat desde Discord al juego de Fortnite. Puedes revisar tus V-Bucks, comprar o regalar ítems de la tienda, y mucho más, ¡todo ello sin necesidad de entrar al juego! Con Mia, la experiencia de gestionar tu cuenta de Fortnite se simplifica y se integra perfectamente con Discord. ¡Descubre un nuevo nivel de conveniencia!
 
 ## Lenguajes, herramientas y bases de datos que uso:
 
