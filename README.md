@@ -11,12 +11,10 @@
  - 🌸 Desarollador de el mejor bot de Fortnite hispano llamado Mia, con una base de datos enorme de esquemas y builds.
 
 <h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
  - [Discord | Pako's Army](https://dsc.gg/pakosarmy)
  - [YouTube | Pako]([https://dsc.gg/pakosarmy](https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ))
  - [Twitter | Pako](https://twitter.com/mynameispako_)
  - [Twitch | Pako](https://www.twitch.tv/mynameispako_)
-</p>
 
 <h3 style="text-align: left;">Conoce mi bot de discord Mia:</h3>
 <p style="text-align: left;">
