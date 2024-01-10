@@ -12,9 +12,13 @@
 ## Conéctate conmigo:
 
 - [Discord | Pako's Army](https://dsc.gg/pakosarmy)
+> ¡Bienvenido a mi servidor de Discord, el lugar donde paso la mayor parte de mi tiempo libre! Con más de 3,000 usuarios, nos hemos reunido todos bajo el tema de Fortnite. Puedes unirte para disfrutar de buenos momentos, realizar intercambios, buscar amigos, formar equipos o simplemente pasar un rato agradable. ¡Te esperamos para que te unas a la diversión!
 - [YouTube | Pako](https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ)
+> ¡Bienvenido a mi canal de YouTube! Aquí encontrarás una variedad de videos relacionados con Fortnite y otros temas interesantes. Sin embargo, debido a mis responsabilidades laborales, actualmente me enfoco en compartir tutoriales y contenido relacionado con mi bot de Discord, Mia. ¡Espero que disfrutes del contenido y encuentres útil la información compartida! 
 - [Twitter | Pako](https://twitter.com/mynameispako_)
+> Mi Twitter es mi espacio para estar al tanto de contenido interesante de otros lugares y enterarme de lo que sucede en temas que me interesan. Aunque no publico activamente, estoy abierto a nuevas conexiones. ¡Si quieres seguirme o enviarme un mensaje directo, no dudes en hacerlo! Estoy aquí para compartir ideas y estar conectado con la comunidad. ¡Nos vemos en Twitter!
 - [Twitch | Pako](https://www.twitch.tv/mynameispako_)
+> Mi canal de Twitch ha estado un poco abandonado últimamente debido a mis responsabilidades laborales, pero tengo la esperanza de regresar algún día. Aunque no estoy transmitiendo en este momento, aún puedes seguirme para recibir notificaciones cuando vuelva a estar activo. ¡Espero verte de nuevo pronto en futuras transmisiones!
 
 ## Conoce mi bot de Discord Mia:
 
