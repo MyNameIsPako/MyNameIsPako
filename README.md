@@ -18,19 +18,12 @@
 
 ## Conoce mi bot de Discord Mia:
 
-[![Mia Bot](https://media.discordapp.net/attachments/880106736181207072/1177068630630994050/PNG_MIA_V13.png?ex=65712996&is=655eb496&hm=22a946f5466c78bbf06981356b21b80bac269785466970b53ab63bdeb411fcc3&=&format=webp)](https://dsc.gg/miabot)
+- [Mi bot de discord sobre Fortnite | Mia](https://dsc.gg/miabot)
 
 ## Lenguajes, herramientas y bases de datos que uso:
 
 - [Node.js](https://dsc.gg/pakosarmy)
-  ![Node.js](https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg)
-  
 - [MongoDB](https://dsc.gg/pakosarmy)
-  ![MongoDB](https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg)
-  
 - [Python](https://dsc.gg/pakosarmy)
-  ![Python](https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg)
-  
 - [C#](https://dsc.gg/pakosarmy)
-  ![C#](https://www.svgrepo.com/show/452184/csharp.svg)
 
