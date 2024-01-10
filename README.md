@@ -4,10 +4,10 @@
 
 ## Sobre mí
 
-- Tengo actualmente 28 años.
-- Programando en .js desde hace 2 años, en c# durante 6 años, y explorando Python desde hace 1 año.
-- Apasionado de los videojuegos y de Fortnite jugando ya desde hace +6 años.
-- Desarrollador de el mejor bot de Fortnite hispano llamado Mia, con una base de datos enorme de esquemas y builds.
+- 🌱 Tengo actualmente 28 años.
+- 💻 Programando en .js desde hace 2 años, en c# durante 6 años, y explorando Python desde hace 1 año.
+- 🎮 Apasionado de los videojuegos y de Fortnite jugando ya desde hace +6 años.
+- 🤖 Desarrollador de el mejor bot de Fortnite hispano llamado Mia, con una base de datos enorme de esquemas y builds.
 
 ## Conéctate conmigo:
 
@@ -18,7 +18,7 @@
 
 ## Conoce mi bot de Discord Mia:
 
-- [Mi bot de discord sobre Fortnite | Mia](https://dsc.gg/miabot)
+- Mia:
 > ¡Les presento a Mia, el bot dedicado exclusivamente a Fortnite para nuestra comunidad hispana y diseñado especialmente para nuestros compañeros de Latinoamérica! Con una base de datos que incluye más de 200 esquemas y más de 50 builds, Mia está aquí para asistirles en todo lo posible. ¡Prepárense para mejorar su experiencia en Fortnite con la ayuda de Mia
 > 
 > 🌸 ¿Que ofrece?:
@@ -26,6 +26,8 @@
 > 
 > ❤️ Interactua con tu cuenta:
 > Comandos que interactúan directamente con tu cuenta; desde recolectar las recompensas de Winterfest sin ingresar al juego, hasta enviar mensajes por el chat desde Discord al juego de Fortnite. Puedes revisar tus V-Bucks, comprar o regalar ítems de la tienda, y mucho más, ¡todo ello sin necesidad de entrar al juego! Con Mia, la experiencia de gestionar tu cuenta de Fortnite se simplifica y se integra perfectamente con Discord. ¡Descubre un nuevo nivel de conveniencia!
+
+[Invitala haciendo click aquí](https://dsc.gg/miabot)
 
 ## Lenguajes, herramientas y bases de datos que uso:
 
