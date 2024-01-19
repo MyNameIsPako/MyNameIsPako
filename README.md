@@ -15,7 +15,7 @@
 
 - [Discord | Pako's Army](https://dsc.gg/pakosarmy)
 > ¡Bienvenido a mi servidor de Discord, el lugar donde paso la mayor parte de mi tiempo libre! Con más de 3,000 usuarios, nos hemos reunido todos bajo el tema de Fortnite. Puedes unirte para disfrutar de buenos momentos, realizar intercambios, buscar amigos, formar equipos o simplemente pasar un rato agradable. ¡Te esperamos para que te unas a la diversión!
-> [![Discord Presence](https://lanyard.cnrad.dev/api/345349877502574595)](https://discord.com/users/345349877502574595)
+> [![Discord Presence](https://lanyard.cnrad.dev/api/345349877502574595?theme=dark?showDisplayName=true?&idleMessage=Ahora%20mismo%20no%20estoy%20haciendo%20nada...)](https://discord.com/users/345349877502574595)
 > 
 > <a href="https://dsc.gg/pakosarmy"><img src="https://discord.com/api/guilds/756859004965093426/widget.png?style=banner2"></a>
 - [YouTube | Pako](https://www.youtube.com/channel/UCnTmZG7LXK3HXcB2-FX-UVQ)
