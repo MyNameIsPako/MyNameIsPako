@@ -11,17 +11,6 @@
 - 🎮 Apasionado de los videojuegos y de Fortnite jugando ya desde hace +6 años.
 - 🤖 Desarrollador de el mejor bot de Fortnite hispano llamado Mia, con una base de datos enorme de esquemas y builds.
 
-
-<hr />
-
-<div align="center">
-  <a href="https://github.com/muniterra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynameispako&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameispako&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-
-<hr />
-
 ## Conéctate conmigo:
 
 - [Discord | Pako's Army](https://dsc.gg/pakosarmy)
