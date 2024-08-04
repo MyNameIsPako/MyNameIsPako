@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hola <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="¡Hola!"> mi nombre es Pako</h1>
+    <h1>HOLA <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="¡Hola!"> MI NOMBRE ES PAKO</h1>
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mynameispako&label=Visitas%20del%20perfil&color=ff0067&style=flat-square" alt="mynameispako" /></p>
