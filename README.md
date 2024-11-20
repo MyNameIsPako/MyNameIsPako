@@ -18,7 +18,7 @@
 
 ㅤ
 
-* ✉️  Puedes contactar conmigo en [https://dsc.gg/pakosarmy](mailto:https://dsc.gg/pakosarmy)
+* ✉️  Puedes contactar conmigo en [https://dsc.gg/miabot](mailto:https://dsc.gg/miabot)
 * 🚀  Actualmente trabajo en [Mia](http://dsc.gg/miabot)
 * 🧠  Estoy aprendiendo JavaScript, TypeScript y Python
 
