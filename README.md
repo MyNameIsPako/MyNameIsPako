@@ -2,21 +2,6 @@
     <h1>HOLA <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="¡Hola!"> MI NOMBRE ES PAKO</h1>
 </div>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mynameispako&label=Visitas%20del%20perfil&color=ff0067&style=flat-square" alt="mynameispako" /></p>
-
-<div align="center">
-    <a href="https://www.github.com/MyNameIsPako" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-        <img src="https://img.shields.io/github/followers/MyNameIsPako?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-    </a>
-    <a href="https://www.x.com/mynameispako_" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-        <img src="https://img.shields.io/twitter/follow/mynameispako_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-    </a>
-    <a href="https://www.twitch.tv/mynameispako_" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/twitch/status/mynameispako_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
-    </a>
-</div>
-
-ㅤ
 
 * ✉️  Puedes contactar conmigo en [https://dsc.gg/miabot](mailto:https://dsc.gg/miabot)
 * 🚀  Actualmente trabajo en [Mia](http://dsc.gg/miabot)
