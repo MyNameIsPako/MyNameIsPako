@@ -3,8 +3,8 @@
 </div>
 
 
-* ✉️  You can contact me at [https://dsc.gg/miabot](mailto:https://dsc.gg/miabot)
-* 🚀  I am currently working on [Mia](http://dsc.gg/miabot)
+* ✉️  You can contact me at [https://discord.gg/miabot](mailto:https://discord.gg/miabot)
+* 🚀  I am currently working on [Mia](https://miadsc.xyz/)
 * 🧠  I am learning JavaScript, TypeScript, and Python
 
 
