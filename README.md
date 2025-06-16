@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/pako.gif" alt="Pako Demo" width="280"/>
+    <img src="./images/pako.png" alt="Pako Demo" width="280"/>
 </div>
 
 <div align="center">
