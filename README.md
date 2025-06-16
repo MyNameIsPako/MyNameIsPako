@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/pako2.gif" alt="Pako Demo" width="280" style="border-radius: 50%;"/>
+    <img src="./images/pako.gif" alt="Pako Demo" width="280"/>
 </div>
 
 <div align="center">
