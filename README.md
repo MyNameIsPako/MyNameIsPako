@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔥+Discord+Bot+%26+Web+Developer;🎮+Gaming+Enthusiast;🌟+Creator+of+Mia+Bot" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔥+Discord+Bot+%26+Web+Developer;🌟+Creator+of+Mia+Bot" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,13 +18,13 @@
 
 - **Gaming Enthusiast:** Fortnite lover and community builder
 - **Current Role:** Owner & Lead Developer of **[Mia](https://miadsc.xyz/)**
-- **Achievement:** One of the largest Discord bots in the Hispanic community
+- **Achievement:** Popular Hispanic Discord bot
 
 </div>
 
 ### 💼 What I'm Working On
 
-- **[Mia discord bot](https://miadsc.xyz/)** - Advanced Discord bot with unique features
+- **[Mia discord bot](https://miadsc.xyz/)** - Next-level Discord bot
 - **[Web Mia](https://miadsc.xyz/)** - Mia discord bot website
 - Developer of PoolBot for MxMasterPool discord server
 - Continuously learning new technologies
